@@ -14,7 +14,6 @@ getgenv().Config = {
 	["Auto Aimbot Gun"] = false,
 	["Distance Teleport Y"] = 800,
 	["Auto New World"] = false,
-	["Select Method Farm"] = "Farm Tyrant of the Skies",
 	["Just Use Skill when Player Active Ken"] = false,
 	["Auto Summon Soul Ember"] = false,
 	["Summon Dough King"] = false,
