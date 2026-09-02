@@ -1,7 +1,6 @@
 getgenv().Config = {
 	["Auto Join Dungeon"] = false,
 	["Select Material"] = "Dragon Scales",
-	["Farm Material"] = true,
 	["Auto Fire Shoot Heart Leviathan"] = false,
 	["Noti Profile"] = false,
 	["Attack Darkbeard"] = false,
